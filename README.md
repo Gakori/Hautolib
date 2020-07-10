@@ -9,7 +9,7 @@
 
 ## SetUp / Installation Requirements
   Clone the repo by running:
-*   git clone https://github.com/Gakori/autolibcar.git
+*   git clone https://github.com/Gakori/Hautolibcar.git
 
 ## TECHNOLOGIES USED
 * Python pandas
